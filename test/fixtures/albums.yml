@@ -2,18 +2,17 @@
 
 slippery_when_wet:
   name: "Slippery When Wet"
-  artist_id: :bonjovi
+  artist: bonjovi
   publisher: "Little Mountain Sound Studios"
   price: 19.99
 
 bounce:
   name: "Bounce"
-  artist_id: :bonjovi
+  artist: bonjovi
   publisher: "Island Murcury"
   price: 9.99
 
 the_getaway:
   name: "The Getaway"
-  artist_id: :redhotchillipeppers
+  artist: redhotchillipeppers
   price:  5.99
-
